@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mr.yao
-- 👀 I’m interested in js
-- 🌱 I’m currently learning ast
+- 👀 I’m interested in javascript
+- 🌱 I’m currently learning vite
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
